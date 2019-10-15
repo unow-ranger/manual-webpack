@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "unow-ranger <rangerunow@gmail.com>",
-  "license": "SZIIT",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
